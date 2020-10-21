@@ -1,0 +1,31 @@
+{
+  "name": "Social_Media_App_MERNG",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Zhangjt9317/Social_Media_App_MERNG.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Zhangjt9317/Social_Media_App_MERNG/issues"
+  },
+  "homepage": "https://github.com/Zhangjt9317/Social_Media_App_MERNG#readme",
+  "dependencies": {
+    "apollo-server": "^2.5.0",
+    "bcryptjs": "^2.4.3",
+    "graphql": "^14.3.1",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^5.5.11"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.5"
+  }
+}
